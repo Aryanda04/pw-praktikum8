@@ -1,0 +1,54 @@
+{
+    "menu":[
+        {
+            "kategori": "Food",
+            "nama": "Duo Spicy Chicken Ramen",
+            "deskripsi": "Ramen Halal dengan sedikit taburan ayam, dan rasa wibu jejepangan",
+            "harga": 66000,
+            "gambar": "menu1.jpg",
+            "estimasi":"9 Minute"
+        },
+        {
+            "kategori": "Food",
+            "nama": "Duo Spicy Beef Ramen",
+            "deskripsi": "Ramen Halal dengan rasa sapi terbaik di sri lanka",
+            "harga": 87000,
+            "gambar": "menu2.jpg",
+            "estimasi":"9 Minute"
+
+        },
+        {
+            "kategori": "Food",
+            "nama": "Paket Happy Breakfast",
+            "deskripsi": "Paket sarapan 5 sehat lumayan sempurna",
+            "harga": 33000,
+            "gambar": "menu3.jpg",
+            "estimasi":"7 Minute"
+        },
+        {
+            "kategori": "Drink",
+            "nama": "Duo Iced Java Tea",
+            "deskripsi": "Es teh manis, dengan sedikit taburan daun pandan kuntilanak",
+            "harga": 31000,
+            "gambar": "menu4.jpg",
+            "estimasi":"5 Minute"
+        },
+        {
+            "kategori": "Drink",
+            "nama": "Duo Kopi Bajawa R",
+            "deskripsi": "Kopi khas roppan dengan rasa kayu manis",
+            "harga": 37000,
+            "gambar": "menu5.jpg",
+            "estimasi":"5 Minute"
+        },
+        {
+            "kategori": "Dessert",
+            "nama": "2 Lusin Danish",
+            "deskripsi": "Menu penutup mulut yang lumayan keren untuk difoto agar saudara dan teman2 kalian iri",
+            "harga": 135000,
+            "gambar": "menu6.jpg",
+            "estimasi":"5 Minute"
+        }
+
+    ]
+}
